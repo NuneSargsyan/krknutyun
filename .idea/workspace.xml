@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e3e449c-03a6-41fe-af71-4e06e7c30d2b" name="Default Changelist" comment="" />
+    <list default="true" id="0e3e449c-03a6-41fe-af71-4e06e7c30d2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +129,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Coza" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -194,6 +196,7 @@
       <workItem from="1629197071560" duration="1435000" />
       <workItem from="1629969230757" duration="2675000" />
       <workItem from="1630347748189" duration="1564000" />
+      <workItem from="1630349939043" duration="405000" />
     </task>
     <servers />
   </component>
@@ -205,10 +208,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1624627978634" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1630349326369">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1630350346424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1630349326369" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1630350346424" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623741943254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
